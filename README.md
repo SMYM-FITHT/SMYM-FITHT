@@ -1,7 +1,9 @@
 # Hi there 👋
+# Devastation of Baal
 
-**[]()
 
+**![](Devastation-of-Baal.jpg)
+[40k.gallery](https://40k.gallery/)
 <!--
 **SMYM-FITHT/SMYM-FITHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
